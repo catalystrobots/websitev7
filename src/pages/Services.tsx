@@ -9,13 +9,13 @@ const Services = () => {
   const services = [
     {
       title: 'Turnkey Products',
-      description: 'Fully engineered animatronics and show action equipment, ready for installation.',
+      description: 'Custom engineered animatronics and show action equipment, from blank page to installation.',
       icon: Bot,
       image: '/images/services/turnkey.jpg'
     },
     {
       title: 'Engineering Support',
-      description: 'Engineering expertise in stress analysis, prototyping, and testing.',
+      description: 'Engineering expertise in design, analysis, prototyping, and testing.',
       icon: Cog,
       image: '/images/services/engineering.jpg'
     },
